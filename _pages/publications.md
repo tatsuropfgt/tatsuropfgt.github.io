@@ -7,10 +7,13 @@ permalink: /publications/
 
 {% include base_path %}
 
+{% for pub in site.data.publications.main %}
 <p style="margin-left: 40px; text-indent: -40px;">
-<b>Tatsuro Inaba</b>, Hirokazu Kiyomaru, Fei Cheng, and Sadao Kurohashi <br>
-MultiTool-CoT: GPT-3 Can Use Multiple External Tools with Chain of Thought Prompting <br>
- <em>Proceedings of ACL 2023 Main Conference </em>
-<a href="https://github.com/InabaTatsuro/MultiTool-CoT">[code]</a>
-<a href="https://arxiv.org/abs/2305.16896">[arxiv]</a>
+{{pub.name}} <br>
+{{pub.title}} <br>
+<em>{{pub.conf}} </em>
+<a href="{{pub.code}}">[code]</a>
+<a href="{{pub.paper}}">[paper]</a>
+<span style="color: #b74170;"><br>{{pub.award}}</span>
 </p>
+{% endfor %}

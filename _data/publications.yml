@@ -1,0 +1,13 @@
+main:
+- title: "MultiTool-CoT: GPT-3 Can Use Multiple External Tools with Chain of Thought Prompting"
+  name: "<b>Tatsuro Inaba</b>, Hirokazu Kiyomaru, Fei Cheng, and Sadao Kurohashi "
+  conf: "Proceedings of ACL 2023 Main Conference"
+  code: "https://github.com/InabaTatsuro/MultiTool-CoT"
+  paper: "https://arxiv.org/abs/2305.16896"
+
+- title: "Reasoning Framework with Using Multiple External Tools based on LLMs"
+  name: "<b>Tatsuro Inaba</b>, Hirokazu Kiyomaru, Fei Cheng, and Sadao Kurohashi"
+  yomi: "大規模言語モデルに基づく複数の外部ツールを利用した推論フレームワーク"
+  conf: "The Association for the 29th Natural Language Processing (NLP2023) in Japan."
+  paper: "https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/Q8-10.pdf"
+  award: "Outstanding Award (Top 2.2%)"
