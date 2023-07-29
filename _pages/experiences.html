@@ -1,0 +1,25 @@
+---
+layout: archive
+title: "Experience"
+permalink: /experiences/
+author_profile: true
+---
+<link rel="stylesheet" href="{{ base_path }}/assets/css/timeline.css">
+<!-- {% include base_path %} -->
+<ul class="timeline">
+    {% for exp in site.data.experiences.main %}
+    <li>
+        {% if exp.category == "work" %}
+        <div class="direction-r">
+        {% else %}
+        <div class="direction-l">
+        {% endif %}
+            <div class="flag-wrapper">
+                <span class="flag">{{ exp.place }}</span>
+                <span class="time-wrapper"><span class="time">{{ exp.time }}</span></span>
+            </div>
+            <div class="desc"><b>{{ exp.title }}</b> <br/> {{ exp.subtitle }}</div>
+        </div>
+    </li>
+    {% endfor %}
+</ul>

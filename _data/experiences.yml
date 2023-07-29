@@ -1,0 +1,31 @@
+main:
+
+- place: "Kyoto University"
+  time: "04/2019 - 03/2023"
+  title: "B.Sc. Student"
+  subtitle: "Undergraduate School of Electrical and Electronic Engineering <br> Year 4: Language Media Processing Lab."
+  category: "school"
+
+- place: "DATAGRID Inc."
+  time: "11/2022 - 7/2023"
+  title: "Reseach and Development Engineer, Part-time"
+  subtitle: "Music Generation Group and Drug Discovery Group"
+  category: "work"
+
+- place: "Preferred Networks, Inc."
+  time: "8/2023 - 9/2023"
+  title: "Reseach and Development Engineer, Internship"
+  subtitle: "Large Language Model Group"
+  category: "work"
+
+- place: "Recruit Co., Ltd."
+  time: "10/2023"
+  title: "Machine Learning Engineer, Internship"
+  subtitle: "Data Analytics Group"
+  category: "work"
+
+- place: "Kyoto University"
+  time: "2023 - 2025"
+  title: "M.Sc. Student"
+  subtitle: "Interigence Science and Technology Course, Graduate School of Informatics <br> Speech and Audio Processing Lab."
+  category: "school"
