@@ -1,5 +1,14 @@
 main:
 
+- title: '"The Importance of Time and Pitch Relativity in Symbolic Music Generation"'
+  name: "<b>Tatsuro Inaba</b>, Kazuyoshi Yoshii, Eita Nakamura."
+  yomi: "音楽生成における時間と音高相対性の重要性"
+  conf: "第141回音楽情報科学研究発表会 (SIGMUS)"
+  code: ""
+  paper: "http://id.nii.ac.jp/1001/00238077/"
+  poster: ""
+  award: "Student Encouragement Award"
+
 - title: '"Two Minds Are Better Than One"'
   name: "<b>Tatsuro Inaba</b>, Takuro Fujii, Ryoma Obara, Koki Shibata."
   yomi: "「三言語モデル寄れば文殊の知恵を」"

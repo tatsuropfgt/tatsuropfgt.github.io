@@ -19,5 +19,7 @@ I'm also interested in natural language processing(NLP), especially in the inner
 I'm seeking a Ph.D. opportunity, aiming to enroll Fall 2025.
 
 ## News
+- 08/2024: Our paper got the Student Encouragement Award at [SIGMUS141](https://www.ipsj.or.jp/kenkyukai/event/mus141.html).
+- 08/2023: Our poster got the Encouragement Award (20/139) at [YANS2023](https://yans.anlp.jp/entry/yans2023).
 - 05/2023: Our paper was accepted for [ACL2023](https://2023.aclweb.org/) main conference.
 - 03/2023: Our paper got the Excellence Award(11/579) at [NLP2023](https://www.anlp.jp/nlp2023/).
