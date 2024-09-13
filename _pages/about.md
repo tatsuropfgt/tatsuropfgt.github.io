@@ -13,10 +13,13 @@ redirect_from:
 Hello, my name is Tatsuro Inaba.
 I'm a 2nd-year master's student at the [Speech and Audio Processing Lab](http://sap.ist.i.kyoto-u.ac.jp/EN/) at Kyoto University, advised by [Kazuyoshi Yoshii](http://sap.ist.i.kyoto-u.ac.jp/members/yoshii/).
 
-My research interests lie in symbolic music generation/understanding. My dream is to create a system that can teach music to beginners, like a music teacher.
-I'm also interested in natural language processing(NLP), especially in the inner workings of language models and their applications to multimodal tasks.
-
-I'm seeking a Ph.D. opportunity, aiming to enroll Fall 2025.
+My research interests lie in
+- Music Information Retrieval (MIR)
+  - controllable music generation
+  - application to education
+- Natural Language Processing (NLP)
+  - interpretability of language models
+  - multimodal models/tasks
 
 ## News
 - 08/2024: Our paper got the Student Encouragement Award at [SIGMUS141](https://www.ipsj.or.jp/kenkyukai/event/mus141.html).

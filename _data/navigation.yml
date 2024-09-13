@@ -11,5 +11,5 @@ main:
   - title: "Activities"
     url: /activities/
   
-  # - title: "Skills"
-  #   url: /skills/
+  - title: "Skills"
+    url: /skills/
