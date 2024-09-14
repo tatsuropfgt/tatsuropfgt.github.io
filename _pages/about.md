@@ -16,6 +16,7 @@ I'm a 2nd-year master's student at the [Speech and Audio Processing Lab](http://
 My research interests lie in
 - Music Information Retrieval (MIR)
   - controllable music generation
+  - interpretability of music generation models
   - application to education
 - Natural Language Processing (NLP)
   - interpretability of language models
