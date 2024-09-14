@@ -11,7 +11,7 @@ redirect_from:
 ## About me
 
 Hello, my name is Tatsuro Inaba.
-I'm a 2nd-year master's student at the [Speech and Audio Processing Lab](http://sap.ist.i.kyoto-u.ac.jp/EN/) at Kyoto University, advised by [Kazuyoshi Yoshii](http://sap.ist.i.kyoto-u.ac.jp/members/yoshii/).
+I'm a 2nd-year master's student at the [Speech and Audio Processing Lab](http://sap.ist.i.kyoto-u.ac.jp/EN/) at Kyoto University, advised by [Kazuyoshi Yoshii](http://sap.ist.i.kyoto-u.ac.jp/members/yoshii/) and [Eita Nakamura](https://eita-nakamura.github.io/).
 
 My research interests lie in
 - Music Information Retrieval (MIR)
