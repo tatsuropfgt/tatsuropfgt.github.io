@@ -34,7 +34,7 @@ permalink: /experiences/
 {{post.title}} <br>
 {{post.subtitle}}
 {% if post.link %}
-    <br><a href="{{post.link}}">blog</a>
+, <a href="{{post.link}}">blog</a>
 {% endif %}
 </p>
 
