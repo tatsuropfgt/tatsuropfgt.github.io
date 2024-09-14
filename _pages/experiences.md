@@ -22,7 +22,7 @@ permalink: /experiences/
 {% endif %}
 {% endfor %}
 
-# Work
+# Work/Research Experience
 <p></p>
 {% for post in site.data.experiences.main reversed %}
 {% if post.category == 'work' %}
@@ -33,6 +33,10 @@ permalink: /experiences/
 <p style="margin-left: 50px">
 {{post.title}} <br>
 {{post.subtitle}}
+{% if post.link %}
+    <br><a href="{{post.link}}">blog</a>
+{% endif %}
 </p>
+
 {% endif %}
 {% endfor %}

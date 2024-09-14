@@ -25,6 +25,7 @@ main:
   title: "Reseacher, Internship"
   subtitle: "Large Language Model Group"
   category: "work"
+  link: "https://tech.preferred.jp/ja/blog/knowledge-distillation-using-intermediate-representations/"
 
 - place: "Recruit Co., Ltd."
   time: "09/2023 - 10/2023"
@@ -37,3 +38,10 @@ main:
   title: "Research Assistant"
   subtitle: "Music Information Processing"
   category: "work"
+
+- place: "Mohamed Bin Zayed University of Artificial Intelligence"
+  time: "01/2024 - 02/2024"
+  title: "Visiting Student"
+  subtitle: "worked with Prof. Kentaro Inui and Prof. Gus Xia"
+  category: "work"
+  link: "https://zenn.dev/tatsuro_pfgt/articles/14b949482b436f"
