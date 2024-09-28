@@ -16,15 +16,17 @@ During my undergraduate studies (April 2022 – March 2023), I was a member of t
 
 My research interests lie in the following areas:
 - Music Information Retrieval (MIR)
-  - controllable music generation
   - interpretability of music generation models
-  - application to education
+  - controllable music generation
+  - application to education [APSIPA ASC'24]
 - Natural Language Processing (NLP)
   - interpretability of language models
   - multimodal models/tasks
+  - practical application of LLMs [[ACL'23](https://aclanthology.org/2023.acl-short.130/)]
 
 ## News
+- 09/2024: Our paper was accepted for [APSIPA ASC'24](http://www.apsipa2024.org/index.html)
 - 08/2024: Our paper got the Student Encouragement Award at [SIGMUS141](https://www.ipsj.or.jp/kenkyukai/event/mus141.html).
-- 08/2023: Our poster got the Encouragement Award (20/139) at [YANS2023](https://yans.anlp.jp/entry/yans2023).
-- 05/2023: Our paper was accepted for [ACL2023](https://2023.aclweb.org/) main conference.
-- 03/2023: Our paper got the Excellence Award(11/579) at [NLP2023](https://www.anlp.jp/nlp2023/).
+- 08/2023: Our poster got the Encouragement Award (20/139) at [YANS'23](https://yans.anlp.jp/entry/yans2023).
+- 05/2023: Our paper was accepted for [ACL'23](https://2023.aclweb.org/) main conference.
+- 03/2023: Our paper got the Excellence Award(11/579) at [NLP'23](https://www.anlp.jp/nlp2023/).
