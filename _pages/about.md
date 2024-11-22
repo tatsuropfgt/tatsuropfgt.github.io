@@ -16,12 +16,10 @@ During my undergraduate studies (April 2022 – March 2023), I was a member of t
 
 My research interests lie in the following areas:
 - Music Information Retrieval (MIR)
-  - interpretability of music generation models
-  - controllable music generation
-  - application to education [APSIPA ASC'24]
+  - domain-specific model architecture for music [APSIPA ASC'24]
+  - interpretability of music/audio models
 - Natural Language Processing (NLP)
   - interpretability of language models
-  - multimodal models/tasks
   - practical application of LLMs [[ACL'23](https://aclanthology.org/2023.acl-short.130/)]
 
 ## News
