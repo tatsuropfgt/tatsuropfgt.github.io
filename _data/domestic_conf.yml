@@ -1,20 +1,26 @@
 main:
+- title: '"Cross-Checkpoint Analysis of Large-Scale Language Models Using Sparse Autoencoders"'
+  name: "<b>Tatsuro Inaba</b>, Kentaro Inui, Yusuke Miyao, Yohei Oseki, Benhjamin Heinzerling, and Yu Takagi."
+  yomi: "「スパースオートエンコーダーを用いた大規模言語モデルのチェックポイント横断分析」"
+  conf: "The Association for the 31st Natural Language Processing (NLP 2025) in Japan."
+  paper: "https://inabatatsuro.github.io/documents/NLP2025_paper.pdf"
+
+- title: '"Weight-based Analysis of Detokenization in Language Models: Understanding the First Stage of Inference Without Inference"'
+  name: "Go Kamoda, Benjamin Heinzerling, <b>Tatsuro Inaba</b>, Keito Kudo, Keisuke Sakaguchi, and Kentaro Inui."
+  yomi: "「言語モデルのパラメータから探るDetokenizationメカニズム」"
+  conf: "The Association for the 31st Natural Language Processing (NLP 2025) in Japan."
 
 - title: '"The Importance of Time and Pitch Relativity in Symbolic Music Generation"'
   name: "<b>Tatsuro Inaba</b>, Kazuyoshi Yoshii, Eita Nakamura."
   yomi: "音楽生成における時間と音高相対性の重要性"
   conf: "第141回音楽情報科学研究発表会 (SIGMUS)"
-  code: ""
   paper: "http://id.nii.ac.jp/1001/00238077/"
-  poster: ""
   award: "Student Encouragement Award"
 
 - title: '"Two Minds Are Better Than One"'
   name: "<b>Tatsuro Inaba</b>, Takuro Fujii, Ryoma Obara, Koki Shibata."
   yomi: "「三言語モデル寄れば文殊の知恵を」"
   conf: "NLP若手の会 (YANS) 第18回シンポジウム (2023)"
-  code: ""
-  paper: ""
   poster: "https://inabatatsuro.github.io/documents/YANS2023_poster.pdf"
   award: "Encouragement Award (20/139)"
 
@@ -22,7 +28,6 @@ main:
   name: "<b>Tatsuro Inaba</b>, Hirokazu Kiyomaru, Fei Cheng, and Sadao Kurohashi"
   yomi: "「大規模言語モデルに基づく複数の外部ツールを利用した推論フレームワーク」"
   conf: "The Association for the 29th Natural Language Processing (NLP 2023) in Japan."
-  code: ""
   paper: "https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/Q8-10.pdf"
   poster: "https://inabatatsuro.github.io/documents/NLP2023_poster.pdf"
   award: "Outstanding Award (13/579)"

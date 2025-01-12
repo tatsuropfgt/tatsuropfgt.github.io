@@ -22,7 +22,9 @@ permalink: /publications/
 {% if pub.poster != "" %}
 <a href="{{pub.poster}}">[poster]</a>
 {% endif %}
+{% if pub.award != "" %}
 <span style="color: #b74170;"><br>{{pub.award}}</span>
+{% endif %}
 </p>
 {% endfor %}
 
@@ -43,7 +45,9 @@ permalink: /publications/
 {% if pub.poster != "" %}
 <a href="{{pub.poster}}">[poster]</a>
 {% endif %}
+{% if pub.award != "" %}
 <span style="color: #b74170;"><br>{{pub.award}}</span>
+{% endif %}
 </p>
 {% endfor %}
 
@@ -65,6 +69,8 @@ permalink: /publications/
 {% if pub.poster != "" %}
 <a href="{{pub.poster}}">[poster]</a>
 {% endif %}
+{% if pub.award != "" %}
 <span style="color: #b74170;"><br>{{pub.award}}</span>
+{% endif %}
 </p>
 {% endfor %}
