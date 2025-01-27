@@ -11,7 +11,7 @@ main:
   name: "Go Kamoda, Benjamin Heinzerling, <b>Tatsuro Inaba</b>, Keito Kudo, Keisuke Sakaguchi, and Kentaro Inui."
   yomi: "「言語モデルのパラメータから探るDetokenizationメカニズム」"
   conf: "The Association for the 31st Natural Language Processing (NLP 2025) in Japan."
-  paper: "https"
+  paper: ""
   poster: ""
   code: ""
 
