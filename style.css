@@ -4,6 +4,15 @@ body {
   margin: 0;
   padding: 0;
 }
+.header-with-link {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.lang-link {
+  font-size: 0.8em;
+}
 
 .intro {
   display: flex;
