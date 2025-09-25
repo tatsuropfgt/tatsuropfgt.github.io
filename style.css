@@ -4,14 +4,9 @@ body {
   margin: 0;
   padding: 0;
 }
-.header-with-link {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-}
 
-.lang-link {
-  font-size: 0.8em;
+.sp-break {
+  display: inline;
 }
 
 .intro {
@@ -44,6 +39,10 @@ body {
 
 /* smartphone */
 @media screen and (max-width: 600px) {
+  .sp-break {
+    display: block;
+  }
+
   .intro {
     flex-direction: column;
     align-items: center;
